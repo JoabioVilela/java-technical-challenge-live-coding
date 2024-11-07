@@ -1,0 +1,1 @@
+Altere a sequência de Fibonacci para que, caso o elemento anterior seja par, ao invés de obter o próximo elemento através da soma dos dois elementos anteriores, obtenha-o através da soma dos três elementos anteriores.

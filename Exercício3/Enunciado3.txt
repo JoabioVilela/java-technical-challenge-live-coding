@@ -1,0 +1,9 @@
+3) Os números de Fibonacci formam uma sequência em que cada número é igual à soma
+dos dois anteriores. Os dois primeiros números são, por definição, iguais a 1. Veja o
+exemplo a seguir: 1 1 2 3 5 8 13 ...
+
+Escreva um programa que carregue um valor N pelo teclado e:
+
+a) Imprima os N primeiros números da sequência de Fibonacci;
+
+b) Indique se N faz parte da sequência de Fibonacci.

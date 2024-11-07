@@ -1,0 +1,7 @@
+2) Desenvolver um sistema que receba uma sequência de números digitada pelo usuário. O
+primeiro valor informado será a quantidade de números a ser digitada, e em seguida, a
+sequência de números. No final o sistema deverá apresentar:
+
+a) A própria sequência digitada pelo usuário.
+
+b) O menor e o maior número da sequência.

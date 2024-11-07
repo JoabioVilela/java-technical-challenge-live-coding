@@ -1,0 +1,1 @@
+Altere o código fonte para tratar casos em que o usuário digita números fracionários para o dado quantidade de filhos menores de 14 anos.
