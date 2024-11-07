@@ -3,7 +3,7 @@ LIVE CODING - DESAFIO TÉCNICO JAVA
 
 # Contexto
 
-O contexto deste repositório é explicado nesta publicação: 
+O contexto deste repositório é explicado nesta publicação: https://www.linkedin.com/posts/joabiovilela_github-joabiovilelajava-technical-challenge-live-coding-activity-7260331363818463232-dJmJ
 
 # Estrutura
 
