@@ -1,5 +1,5 @@
 # java-technical-challenge-live-coding
-Live Coding - Desafio Técnico em Java
+LIVE CODING - DESAFIO TÉCNICO JAVA
 
 # Contexto
 
